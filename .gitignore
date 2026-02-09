@@ -1,0 +1,77 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Package locks (keep these commented out usually)
+# package-lock.json
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Large model files - exclude all .h5 files
+*.h5
+
+# Large video files - exclude all video formats
+*.mp4
+
+# Image training data (if you want to exclude train1 images)
+# Cards/public/train1/**/*.jpg
+# Cards/public/train1/**/*.png
+
+# Build outputs (React/Node)
+build/
+dist/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+.project
+.classpath
+.settings/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
+.temp/

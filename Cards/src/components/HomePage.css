@@ -1,0 +1,28 @@
+.signbridge-heading {
+  font-size: 3.5rem !important;
+  font-weight: 800 !important;
+  background: linear-gradient(90deg, #ff7e5f, #667eea 80%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 2px 2px 8px rgba(102,126,234,0.10);
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.menu-signbridge {
+  font-size: 1.7rem !important;
+  font-weight: 700 !important;
+  background: linear-gradient(90deg, #ff7e5f, #667eea 80%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 1px;
+  transition: filter 0.2s;
+  display: inline-block;
+}
+.menu-signbridge:hover {
+  filter: brightness(1.2);
+} 
