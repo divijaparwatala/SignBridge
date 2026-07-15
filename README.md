@@ -1,4 +1,4 @@
-# 🤟 SignBridge
+# SignBridge
 
 SignBridge is an AI-powered full-stack web application that bridges the communication gap between the deaf and hearing communities through **Indian Sign Language (ISL)**. The platform combines **Computer Vision**, **Deep Learning**, and **Multilingual Translation** to provide real-time ISL gesture recognition, text-to-sign translation, speech synthesis, and interactive learning resources. Designed with accessibility in mind, SignBridge serves as both a communication tool and an educational platform for learning Indian Sign Language.
 
