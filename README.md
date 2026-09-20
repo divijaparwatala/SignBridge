@@ -44,9 +44,8 @@ SignBridge is an AI-powered full-stack web application that bridges the communic
 ### AI & Computer Vision
 - Python
 - TensorFlow
-- Keras
 - OpenCV
-- CVZone
+- MediaPipe
 
 ---
 
